@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=30&pause=1000&width=435&lines=Hi!+This+Is+eshangonemad.)](https://git.io/typing-svg)
-###SkillSet & Previous Experience
+<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=30&pause=1000&width=435&lines=Hi!+This+Is+eshangonemad.)](https://git.io/typing-svg)</h1>
+<h3>SkillSet & Previous Experience</h3>
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
