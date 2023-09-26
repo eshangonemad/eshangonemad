@@ -49,6 +49,16 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/internetexplorer/00712D12" height="30" alt="ie10 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/instagram/E4305F" height="30" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A1212C2" height="30" alt="linkedin logo"  />
+  <img width="12" />
+
+<h2>Github Stuff</h2>
 
   <div align="center">
 <a href="https://github.com/eshangonemad">
@@ -58,11 +68,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshangonemad&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshangonemad&theme=github_dark" height="180em" />
 </div>
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/internetexplorer/00712D12" height="30" alt="ie10 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/instagram/E4305F" height="30" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linkedin/0A1212C2" height="30" alt="linkedin logo"  />
-  <img width="12" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
