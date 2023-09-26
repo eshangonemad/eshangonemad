@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=35&pause=1000&width=435&lines=Hi!+This+Is+eshangonemad.)](https://git.io/typing-svg)
-<h2>SkillSet & Previous Experience</h2>
+<h2>SkillSet & Previous Experiences</h2>
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,6 +49,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
   <img width="12" />
+
+  <div align="center">
+<a href="https://github.com/eshangonemad">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshangonemad&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshangonemad&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshangonemad&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshangonemad&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshangonemad&theme=github_dark" height="180em" />
+</div>
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/internetexplorer/00712D12" height="30" alt="ie10 logo"  />
