@@ -60,6 +60,7 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
 
+<iframe src="https://https://tauri.app/"></iframe>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/eshangonemad/count.svg?"  />
