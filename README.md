@@ -57,8 +57,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
 
