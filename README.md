@@ -58,7 +58,7 @@
   <img src="https://cdn.simpleicons.org/linkedin/0A1212C2" height="30" alt="linkedin logo"  />
   <img width="12" />
 <h2>What am I?</h2>
-  I am a Front-End web developer, who strongly believes in free education for all.
+  ![I am a Student,Developer,Innovator,Maker](https://eshangonemad.github.io/eshangonemad/intro.gif)
 <h2>Github Stuff</h2>
 
   <div align="center">
