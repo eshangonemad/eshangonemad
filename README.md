@@ -59,6 +59,7 @@
   <img width="12" />
 <h2>What am I?</h2>
   ![I am a Student,Developer,Innovator,Maker](https://eshangonemad.github.io/eshangonemad/intro.gif)
+  <img src="https://eshangonemad.github.io/eshangonemad/intro.gif">
 <h2>Github Stuff</h2>
 
   <div align="center">
