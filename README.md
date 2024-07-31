@@ -33,11 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="30" alt="twitter logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95430" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D12" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
   <img width="12" />
@@ -50,8 +46,6 @@
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/internetexplorer/00712D12" height="30" alt="ie10 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/instagram/E4305F" height="30" alt="instagram logo"  />
   <img width="12" />
