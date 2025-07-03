@@ -9,6 +9,5 @@ I hope you stumble across my profile once again...
 <img src="prgw.png" width="500" />
 <img src="langs.PNG" width="900"/>
 <img src="git.png" width="500">
-![ ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshangonemad&theme=gotham)
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshangonemad&theme=gotham"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshangonemad&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshangonemad&theme=gotham&utcOffset=8)
